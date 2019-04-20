@@ -1,2 +1,2 @@
-# MySite
-by @Bounty31k
+# EMail Signature
+by @bounty31k | @code-king
