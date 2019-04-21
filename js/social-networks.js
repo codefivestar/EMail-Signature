@@ -23,6 +23,10 @@ let socials = {
       url: 'https://github.com/bounty31k',
       // icon: 'https://github.com/bounty31k/AllAboutMe/blob/master/img/github-icon.png'
       icon: './img/github-icon.png'
+    },
+    instagram: {
+      url: 'https://www.instagram.com/bounty31k/',
+      icon: './img/instagram-icon.png'
     } 
   }
   
